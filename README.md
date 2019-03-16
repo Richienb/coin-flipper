@@ -1,2 +1,2 @@
-# coin-flipper
+# Coin Flipper
 A simple coin flipper.
